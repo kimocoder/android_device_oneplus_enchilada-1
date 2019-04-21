@@ -29,7 +29,7 @@ $(call inherit-product, device/oneplus/enchilada/device.mk)
 PRODUCT_DEVICE := enchilada
 PRODUCT_NAME := omni_enchilada
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus A6000
+PRODUCT_MODEL := OnePlus A6003
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
